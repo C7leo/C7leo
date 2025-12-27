@@ -16,7 +16,6 @@
 
 - I love crafting smooth, fast experiences with a playful touch.
 - I prototype animated frontends and pair them with solid backends.
-- I am looking to collaborate on open source where I can add speed and design.
 
 ## Languages and tools
 
@@ -82,12 +81,6 @@
 </div>
 
 ![pulse divider](https://capsule-render.vercel.app/api?type=rect&color=0:ff7aec,100:00f0ff&height=6&section=footer&animation=fadeIn)
-
-## How to collaborate
-
-- Open an issue with ideas or bugs.
-- Send a PR with improvements and I will review fast.
-- Ping me for quick pair programming or mentoring.
 
 ## Contact
 
