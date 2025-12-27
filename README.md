@@ -1,6 +1,6 @@
 <div align="center">
 
-![alt text](/C7leo/assets/image.png)
+![alt text](assets/image.png)
 
 
 [![typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=00F0FF&width=520&lines=Hi%2C+I'm+C7leo.+Welcome+in!;I+build+fun+and+impactful+stuff;Let's+ship+cool+things)](https://github.com/C7leo)
