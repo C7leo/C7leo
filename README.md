@@ -84,9 +84,7 @@
 
 ## Contact
 
-[![Mail](https://img.shields.io/badge/Mail-hello%40example.com-ff7aec?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cleo.espivas@example.com)
+[![Mail](https://img.shields.io/badge/Mail-cleo.espivas%40gmail.com-ff7aec?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cleo.espivas@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-00d8ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilla-leonor-espinoza-vivas-4ba5b2361)
 
----
 
-Got an idea? Let's prototype it with color and rhythm.
